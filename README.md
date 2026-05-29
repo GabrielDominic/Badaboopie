@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Badaboopie
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development, Machine Learning, and Cybersecurity
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me domdicar@gmail.com
